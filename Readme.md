@@ -26,6 +26,10 @@ There will be a level editor for players to make their own courses and upload th
 
 
 
+https://github.com/user-attachments/assets/2c13a60b-8d62-4f60-b24a-691eda5b4543
+
+
+
 ## How It Works
 
 Currently, basic slime movement is added. There is a two-camera setup, the main camera follows the leader (but will eventually follow the player's slime), and the overlayed camera shows the entire level and the positions of each slime.
